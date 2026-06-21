@@ -1,0 +1,1 @@
+El examen parcial 3 de IA debe entregarse antes de la fecha límite usando un repositorio de GitHub público.
