@@ -1,1 +1,5 @@
 El examen parcial 3 de IA debe entregarse antes de la fecha límite usando un repositorio de GitHub público.
+
+El objetivo práctico final es: Crear un Chatbot de IA: Escribir un script en Python que se conecte a una API de Inteligencia Artificial para crear un asistente conversacional capaz de interactuar con tus propios datos o documentos.
+
+Recursos a utilizar: Video de Dave Ebbelaar (https://www.youtube.com/watch?v=ygXn5nV5qFc) es un curso completo de más de 5 horas ("Python for AI - Full Beginner Course") enfocado en llevarte desde cero hasta construir aplicaciones de Inteligencia Artificial.
